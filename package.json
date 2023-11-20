@@ -1,0 +1,21 @@
+{
+  "name": "css-hh-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techupth/css-hh-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techupth/css-hh-tailwind/issues"
+  },
+  "homepage": "https://github.com/techupth/css-hh-tailwind#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2"
+  }
+}
